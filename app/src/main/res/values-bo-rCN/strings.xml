@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">本土化</string>
+    <string name="str_en">英語</string>
+    <string name="str_ru">俄語</string>
+    <string name="str_uz">烏茲別克語</string>
+    <string name="str_bo">中國人</string>
+    <string name="str_ja">日本人</string>
+    <string name="str_ko">韓國人</string>
+
+    <plurals name="my_car">
+        <item quantity="one">我有%d 輛車</item>
+        <item quantity="other">我有%d輛車</item>
+    </plurals>
+</resources>

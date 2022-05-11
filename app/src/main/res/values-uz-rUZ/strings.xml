@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mahalliylashtirish</string>
+    <string name="str_en">Ingliz tili</string>
+    <string name="str_ru">Rus tili</string>
+    <string name="str_uz">Uzbek tili</string>
+    <string name="str_bo">Xitoy tili</string>
+    <string name="str_ja">Yapon tili</string>
+    <string name="str_ko">Koreys tili</string>
+
+    <plurals name="my_car">
+        <item quantity="one">Mening %d ta mashinam bor</item>
+        <item quantity="other">Mening %d ta mashinalarim bor</item>
+    </plurals>
+</resources>

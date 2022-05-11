@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">현지화</string>
+    <string name="str_en">영어</string>
+    <string name="str_ru">러시아인</string>
+    <string name="str_uz">우즈벡</string>
+    <string name="str_bo">중국인</string>
+    <string name="str_ja">일본어</string>
+    <string name="str_ko">한국인</string>
+
+    <plurals name="my_car">
+        <item quantity="one">나는 %d 차가있다</item>
+        <item quantity="other">나는 %d 대의 차를 가지고 있다</item>
+    </plurals>
+</resources>

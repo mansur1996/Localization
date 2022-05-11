@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ローカリゼーション</string>
+    <string name="str_en">英語</string>
+    <string name="str_ru">ロシア</string>
+    <string name="str_uz">ウズベク語</string>
+    <string name="str_bo">中国語</string>
+    <string name="str_ja">日本</string>
+    <string name="str_ko">韓国語</string>
+
+    <plurals name="my_car">
+        <item quantity="one">私は%d台の車を持っています</item>
+        <item quantity="other">私は%d台の車を持っています</item>
+    </plurals>
+</resources>

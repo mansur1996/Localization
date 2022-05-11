@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Локализация</string>
+    <string name="str_en">Английский</string>
+    <string name="str_ru">Русский</string>
+    <string name="str_uz">Узбекский</string>
+    <string name="str_bo">Китайский</string>
+    <string name="str_ja">Японский</string>
+    <string name="str_ko">Korean</string>
+
+    <plurals name="my_car">
+        <item quantity="one">у меня есть %d машина</item>
+        <item quantity="few">у меня есть %d машины</item>
+        <item quantity="many">у меня есть %d машин</item>
+    </plurals>
+</resources>
